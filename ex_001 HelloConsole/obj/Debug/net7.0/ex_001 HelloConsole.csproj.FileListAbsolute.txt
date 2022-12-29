@@ -1,0 +1,15 @@
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\bin\Debug\net7.0\ex_001 HelloConsole.exe
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\bin\Debug\net7.0\ex_001 HelloConsole.deps.json
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\bin\Debug\net7.0\ex_001 HelloConsole.runtimeconfig.json
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\bin\Debug\net7.0\ex_001 HelloConsole.dll
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\bin\Debug\net7.0\ex_001 HelloConsole.pdb
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ex_001 HelloConsole.csproj.AssemblyReference.cache
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ex_001 HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ex_001 HelloConsole.AssemblyInfoInputs.cache
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ex_001 HelloConsole.AssemblyInfo.cs
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ex_001 HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ex_001 HelloConsole.dll
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\refint\ex_001 HelloConsole.dll
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ex_001 HelloConsole.pdb
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ex_001 HelloConsole.genruntimeconfig.cache
+C:\Users\79152\Desktop\Example\ex_001 HelloConsole\obj\Debug\net7.0\ref\ex_001 HelloConsole.dll
